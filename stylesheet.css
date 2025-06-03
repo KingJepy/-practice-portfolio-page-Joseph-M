@@ -1,0 +1,21 @@
+.beginner{
+    background-color:chartreuse
+}
+
+#header{
+   background-color: darkgrey; 
+}
+
+#name{
+    color:chocolate
+}
+
+#learning-code{
+    color:blue;
+    font-family: cursive;
+    font-size: larger;
+}
+
+#table{
+    text-align: center;
+}
